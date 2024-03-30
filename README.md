@@ -1,0 +1,1 @@
+### SpaceInvaders is a remake of the classical 2-D platform shooting game of the same name. It is developed by pygame in python. Users need to shoot a hundred space invaders as they are meandering down to reach you in order to win the game.
